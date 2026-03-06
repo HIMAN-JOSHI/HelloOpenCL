@@ -1,7 +1,7 @@
 # Readme HelloOpenCL
 This program adds two matrices using OpenCL.
 
-The purpose of this program is to learn and understand the basic steps involved in writing an OpenCL program.
+The purpose of this program is to learn and understand the basic steps involved in writing an OpenCL program using C++.
 
 Following are the general steps / template usually observed in an OpenCL program.
 
